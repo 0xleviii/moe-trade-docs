@@ -1,4 +1,4 @@
-# Joe V2 Docs
+# Moe Docs
 
 This repo contains developer docs for Liquidity Book, a novel, highly capital efficient AMM invented by Trader Joe XYZ. 
 
